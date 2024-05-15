@@ -20,7 +20,6 @@ module.exports = {
     'Chanel Kim',
     'Mayank Munjal',
     'Sheriff Oseni',
-    'YuMing Wu',
-    'MS Data Visualization Class of 2024'
+    'YuMing Wu'
   ]
 }
