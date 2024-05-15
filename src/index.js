@@ -12,7 +12,7 @@ let vm = new Vue({
     day: moment(config.date)
       .format('ddd')
       .toUpperCase(),
-    date: moment(config.date).format('M/DD'),
+    date: moment(config.date).format('MM/DD/YY'),
     time: config.time,
     location: config.location,
     school: config.school,
