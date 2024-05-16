@@ -20,6 +20,7 @@ module.exports = {
     'Chanel Kim',
     'Mayank Munjal',
     'Sheriff Oseni',
-    'YuMing Wu'
+    'YuMing Wu',
+    'Shuyao Xiao'
   ]
 }
